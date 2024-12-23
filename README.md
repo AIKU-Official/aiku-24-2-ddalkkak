@@ -50,4 +50,4 @@ Incorrect answers:
 - [권보영](https://github.com/iamnotwhale): 팀장, 모델 리서치, 코드 작성 및 정리
 - [강동혁](https://github.com/cucumber5252): 모델 리서치, 코드 작성, 노션 정리
 - [구영서](https://github.com/andless2004): 모델 리서치, 코드 작성, 발표자료 제작
-- [김민경](): 모델 리서치, 코드 작성, 발표자료 제작
+- [김민경](https://github.com/kmk5041): 모델 리서치, 코드 작성, 발표자료 제작
