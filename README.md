@@ -14,7 +14,7 @@
 3. KoBERT를 활용하여 의문문 형태의 질문으로 변환
 4. 중요한 키워드의 단어 유사도를 통해 객관식 선지 생성
    
-대부분의 이 [깃허브](https://github.com/KristiyanVachev/Question-Generation)를 참고하였습니다. 
+코드 작성에는 이 [깃허브](https://github.com/KristiyanVachev/Question-Generation)를 참고하였습니다. 
 
 ## 환경 설정
 
