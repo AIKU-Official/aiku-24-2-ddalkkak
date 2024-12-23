@@ -18,22 +18,26 @@
 
 ## 환경 설정
 
-따로 세팅이 필요하지 않습니다.
-다만 학습을 진행하기 위해서, [KorQuAD v1.0](https://korquad.github.io/category/1.0_KOR.html) 데이터셋, 사전 학습된 fasttext 파일을 필요로 합니다.
+학습을 진행하기 위해서, [KorQuAD v1.0](https://korquad.github.io/category/1.0_KOR.html) 데이터셋, 사전 학습된 fasttext 모델을 필요로 합니다. 해당 파일은 data 폴더 내에 위치하고 있습니다.   
+의문문 형태의 질문 변환 시 사전 학습된 KoBERT를 사용합니다. 모델 가중치는 [드라이브](https://drive.google.com/drive/folders/1ZiY9EFPJl7bnvLN5fbraElZ9saYH20XJ?usp=drive_link)에서 접근할 수 있습니다.
+
 
 ## 사용 방법
 
-code 폴더 안의 ipynb 파일을 순차적으로 실행시켜주세요.
+notebook 폴더 안의 ipynb 파일을 순차적으로 실행시켜주세요.
 
 ## 예시 결과
 
 ```
 Question 5:
 확산 모델의 기본 발상은, _____ 이미지에 노이즈를 점진적으로 추가하였다가 그 노이즈를 다시 제거해 나가면 원본 이미지를 복원할 수 있다는 것이다.
+
 Interrogative Question 5:
 확산 모델의 기본 발상은 어떤 이미지를 복원할 수 있는가?
+
 Answer:
 원본
+
 Incorrect answers:
 사본
 복사본
